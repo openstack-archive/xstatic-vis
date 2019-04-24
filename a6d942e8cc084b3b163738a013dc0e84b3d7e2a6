@@ -1,0 +1,9 @@
+Code-Review+2: Vishal Manchanda <manchandavishal143@gmail.com>
+Code-Review+2: Akihiro Motoki <amotoki@gmail.com>
+Workflow+1: Akihiro Motoki <amotoki@gmail.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Wed, 24 Apr 2019 15:59:10 +0000
+Reviewed-on: https://review.opendev.org/650842
+Project: openstack/xstatic-vis
+Branch: refs/heads/master
